@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<gpx>
+  <trk>
+    <name>Data in which Leo moves once, lingers for three minutes, moves for a minute, goes undercover for five minutes, and then moves again</name>
+    <trkseg>
+      <trkpt lat=" 53.78794300" lon="-1.8043550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T11:59:50Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:10Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:20Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:30Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:40Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:00:50Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:00Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:10Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:20Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:30Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:40Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:01:50Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:00Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:10Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:20Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:30Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8042550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:40Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78784300" lon="-1.8043450000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:02:50Z</time>
+      </trkpt>      
+      <trkpt lat=" 53.78774300" lon="-1.8044550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:00Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78764300" lon="-1.8045550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:10Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78754300" lon="-1.8046550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:20Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78744300" lon="-1.8047550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:30Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78734300" lon="-1.8048550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:40Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78724300" lon="-1.8049550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:03:50Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78704300" lon="-1.8051550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:08:50Z</time>
+      </trkpt>
+      <trkpt lat=" 53.78694300" lon="-1.8052550000">
+        <ele>168.400</ele>
+        <time>2000-01-01T12:09:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
